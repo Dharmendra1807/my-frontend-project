@@ -1,9 +1,9 @@
-# My-Flashcard-Project
+# My-Frontend-Project
 
 This is a frontend Capstone project given by the Almabetter which is Flashcard Generator.
 
 
-## About The Project (My Flashcard project)
+## About The Project (My Frontend project)
 
 
 This project is created with mainly React js, In this project mainly we have three pages.
