@@ -21,7 +21,7 @@ This project is created with mainly React js, In this project mainly we have thr
 
 ## How to Use
 
-1) Open the flashcard project [Click Here][((https://dharmendra1807.github.io/My-Frontend-project/)/)]
+1) Open the flashcard project [Click Here][(https://dharmendra1807.github.io/My-Frontend-project/)]
 
 2) Fill up all the input boxes without any Errors and click on the "Create" button.
 
